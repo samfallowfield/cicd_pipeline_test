@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/cicd_pipeline_test",
+  base: "/cicd_pipeline_test/",
 });
